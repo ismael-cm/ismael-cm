@@ -1,4 +1,30 @@
-### Hi there 👋
+# Hello, I am Ismael Alberto Castillo
+
+## About me 👋
+
+I am a passionate PHP developer with experience in Laravel and Vue.js. I work at Tbox and I'm also a freelancer. I love creating elegant and efficient solutions to my clients' problems.
+
+## Technical skills 🚀
+
+- PHP
+- Laravel
+- Vue.js
+- JavaScript
+- HTML
+- CSS
+  
+
+## Featured projects 🌟
+
+- Symple: I worked on Symple that is one easy platform to order & manage property certificates & services, without wasting time chasing & waiting for people. Link: (https://uk.linkedin.com/company/symplem60)
+- Freebitcoin.io: I worked in freebitcoin.io as a web developer.
+
+## Contacto 📬
+
+Email: ismaelcastillo1000@gmail.com
+
+Thank you for visiting my profile! 😊
+
 
 <!--
 **ismael-cm/ismael-cm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
