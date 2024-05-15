@@ -22,7 +22,7 @@ I am a passionate PHP developer with experience in Laravel and Vue.js. I work at
 ## Contact 📬
 
 Email: ismaelcastillo1000@gmail.com
-Linkedin: https://sv.linkedin.com/in/ismael-castillo-37153a1a8/es
+Linkedin: https://www.linkedin.com/in/ismael-castillo-37153a1a8/
 
 Thank you for visiting my profile! 😊
 
